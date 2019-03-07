@@ -1,1 +1,1 @@
-FROM gcr.io/constant-cubist-173123/inference_server/openvino-model-server
+FROM openvino-model-server
